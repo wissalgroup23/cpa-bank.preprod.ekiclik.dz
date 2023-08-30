@@ -1,0 +1,14 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    id="prefix__shopping_cart-24px"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+>
+    <path
+        id="prefix__Path_24"
+        d="M7 18a2 2 0 1 0 2 2 2 2 0 0 0-2-2zM1 3a1 1 0 0 0 1 1h1l3.6 7.59-1.35 2.44A2 2 0 0 0 7 17h11a1 1 0 0 0 0-2H7l1.1-2h7.45a1.991 1.991 0 0 0 1.75-1.03l3.58-6.49A1 1 0 0 0 20.01 4H5.21l-.67-1.43a.993.993 0 0 0-.9-.57H2a1 1 0 0 0-1 1zm16 15a2 2 0 1 0 2 2 2 2 0 0 0-2-2z"
+        data-name="Path 24"
+        fill="#ffffff"
+    />
+</svg>

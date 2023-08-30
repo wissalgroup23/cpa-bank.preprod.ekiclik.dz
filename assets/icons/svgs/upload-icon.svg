@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Component_74_1" width="95.475" height="95.475" viewBox="0 0 95.475 95.475">
+    <defs>
+        <style>
+            .cls-2{fill:none}
+        </style>
+    </defs>
+    <g id="Rectangle_760" fill="#f2f2f4" stroke="#f2f2f4">
+        <rect width="95.475" height="95.475" stroke="none" rx="8"/>
+        <rect width="94.475" height="94.475" x=".5" y=".5" class="cls-2" rx="7.5"/>
+    </g>
+    <g id="Component_64_2" transform="translate(17.476 17.502)">
+        <rect id="Rectangle_757" width="60" height="60" class="cls-2" rx="8"/>
+        <path id="Icon_material-file-download" fill="#3282cc" d="M32.848 15.363h-7.243V4.5H14.742v10.863H7.5l12.674 12.674zM7.5 31.658v3.621h25.348v-3.621z" transform="translate(9.5 9.5)"/>
+    </g>
+</svg>

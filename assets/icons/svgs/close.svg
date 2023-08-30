@@ -1,0 +1,15 @@
+<svg id="add-24px" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Path_442" data-name="Path 442" class="cls-1" d="M0,0H24V24H0Z"/>
+  <path id="Path_443" data-name="Path 443" class="cls-2" d="M13,8H8v5a1,1,0,0,1-2,0V8H1A1,1,0,0,1,1,6H6V1A1,1,0,0,1,8,1V6h5a1,1,0,0,1,0,2Z" transform="translate(12 2.101) rotate(45)"/>
+</svg>

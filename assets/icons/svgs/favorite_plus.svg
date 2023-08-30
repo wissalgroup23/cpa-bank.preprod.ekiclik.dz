@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Component_90_1" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <style>
+            .cls-2,.cls-5{fill:none}.cls-5{stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:.5px}.cls-6{stroke:none}
+        </style>
+    </defs>
+    <g id="Ellipse_73" fill="#fff" stroke="#459ad4">
+        <circle cx="16" cy="16" r="16" class="cls-6"/>
+        <circle cx="16" cy="16" r="15.5" class="cls-2"/>
+    </g>
+    <g id="Group_2525" transform="translate(-730 -781.529)">
+        <g id="favorite-24px" transform="translate(738 793.765)">
+            <path id="Path_21" d="M0 0h11.294v11.294H0z" class="cls-2"/>
+            <path id="Path_22" fill="#459ad4" d="M7.339 11.061a.939.939 0 0 1-1.266 0l-.052-.047C3.551 8.774 1.937 7.31 2 5.484a2.569 2.569 0 0 1 1.1-2.018 2.727 2.727 0 0 1 3.6.518 2.722 2.722 0 0 1 3.6-.518 2.569 2.569 0 0 1 1.1 2.019c.066 1.826-1.553 3.289-4.024 5.534l-.047.042z" transform="translate(-1.057 -1.588)"/>
+        </g>
+        <g id="Ellipse_2" fill="#5ba802" stroke="#fff" transform="translate(744.588 790)">
+            <circle cx="4.706" cy="4.706" r="4.706" class="cls-6"/>
+            <circle cx="4.706" cy="4.706" r="4.206" class="cls-2"/>
+        </g>
+        <g id="Icon_feather-plus" transform="translate(747.868 793.279)">
+            <path id="Path_2690" d="M18 7.5v2.853" class="cls-5" transform="translate(-16.574 -7.5)"/>
+            <path id="Path_2691" d="M7.5 18h2.853" class="cls-5" transform="translate(-7.5 -16.574)"/>
+        </g>
+    </g>
+</svg>

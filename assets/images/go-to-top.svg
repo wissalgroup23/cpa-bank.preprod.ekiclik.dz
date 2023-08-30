@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+    <defs>
+        <style>
+            .cls-2{fill:none}
+        </style>
+    </defs>
+    <g id="button_en_haute" transform="translate(-767 -484)">
+        <g id="Ellipse_70" fill="#fff" stroke="#003147" stroke-width="3px" transform="translate(767 484)">
+            <circle cx="25" cy="25" r="25" stroke="none"/>
+            <circle cx="25" cy="25" r="23.5" class="cls-2"/>
+        </g>
+        <g id="chevron_left-24px" transform="rotate(90 163.5 650.5)">
+            <path id="Path_2276" d="M0 0h44v44H0z" class="cls-2"/>
+            <path id="Path_2277" fill="#003147" d="M19.954 6.954a1.826 1.826 0 0 0-2.585 0l-8.415 8.415a1.826 1.826 0 0 0 0 2.585l8.415 8.415a1.828 1.828 0 1 0 2.585-2.585l-7.114-7.132 7.113-7.113a1.843 1.843 0 0 0 .001-2.585z" transform="translate(7.015 5.348)"/>
+        </g>
+    </g>
+</svg>
