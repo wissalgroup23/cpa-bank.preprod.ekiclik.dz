@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="truck" width="33.759" height="23.404" viewBox="0 0 33.759 23.404">
     <defs>
         <style>
-            .cls-1{fill:#003147}.cls-2{fill:#459ad4}
+            .cls-1{fill:#003147}.cls-2{fill: #1F2F79
+                                }
         </style>
     </defs>
     <g id="Group_1152" transform="translate(21.241 14.894)">

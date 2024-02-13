@@ -4,14 +4,14 @@
             .cls-2,.cls-5{fill:none}.cls-5{stroke:#fff;stroke-linecap:round;stroke-linejoin:round}.cls-6{stroke:none}
         </style>
     </defs>
-    <g id="Ellipse_72" fill="#fff" stroke="#459ad4">
+    <g id="Ellipse_72" fill="#fff" stroke="#1F2F79">
         <circle cx="16" cy="16" r="16" class="cls-6"/>
         <circle cx="16" cy="16" r="15.5" class="cls-2"/>
     </g>
     <g id="Group_2523" transform="translate(-1231 -25)">
         <g id="shopping_cart-24px" transform="translate(1239 36)">
             <path id="Path_23" d="M0 0h12v12H0z" class="cls-2"/>
-            <path id="Path_24" fill="#459ad4" d="M4 10a1 1 0 1 0 1 1 1 1 0 0 0-1-1zM1 2.5a.5.5 0 0 0 .5.5H2l1.8 3.8-.675 1.22A1 1 0 0 0 4 9.5h5.5a.5.5 0 0 0 0-1H4l.55-1h3.725a1 1 0 0 0 .875-.515l1.79-3.245A.5.5 0 0 0 10.5 3H3.1l-.33-.715A.5.5 0 0 0 2.32 2H1.5a.5.5 0 0 0-.5.5zM9 10a1 1 0 1 0 1 1 1 1 0 0 0-1-1z" transform="translate(-.5 -1)"/>
+            <path id="Path_24" fill="#1F2F79" d="M4 10a1 1 0 1 0 1 1 1 1 0 0 0-1-1zM1 2.5a.5.5 0 0 0 .5.5H2l1.8 3.8-.675 1.22A1 1 0 0 0 4 9.5h5.5a.5.5 0 0 0 0-1H4l.55-1h3.725a1 1 0 0 0 .875-.515l1.79-3.245A.5.5 0 0 0 10.5 3H3.1l-.33-.715A.5.5 0 0 0 2.32 2H1.5a.5.5 0 0 0-.5.5zM9 10a1 1 0 1 0 1 1 1 1 0 0 0-1-1z" transform="translate(-.5 -1)"/>
         </g>
         <g id="Group_24" transform="translate(1245 32)">
             <g id="Ellipse_2" fill="#5ba802" stroke="#fff">
